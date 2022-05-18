@@ -6,6 +6,7 @@ analog.txt為繁體Dataset，將analogy.txt使用OpenCC翻譯得到。
 
 analogy.txt為簡體Dataset，由[1]提供。
 
+zh_tw_google.txt為繁體Dataset，，由[2][3]提供。
 
 
 
