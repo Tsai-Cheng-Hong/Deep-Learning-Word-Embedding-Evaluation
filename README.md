@@ -3,7 +3,7 @@
 
 如果是使用gensim套件訓練出來的模型，如CBOW、Skipgram、FastText等
 
-可以使用test.py進行模型的評估。
+可以使用test.py進行模型的評估，參考test.ipynb。
 
 
 
