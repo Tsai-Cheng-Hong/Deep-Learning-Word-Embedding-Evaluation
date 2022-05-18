@@ -1,6 +1,12 @@
 # Deep-Learning-Word-Embedding-evaluation
 使用詞相似度(Word Similarity)與詞類比(Word Analogy)評估詞嵌入模型訓練出來的詞向量
 
+如果是使用gensim套件訓練出來的模型，如CBOW、Skipgram、FastText等
+
+可以使用test.py進行模型的評估。
+
+
+
 # Word Analogy
 analog.txt為繁體Dataset，將analogy.txt使用OpenCC翻譯得到。
 
