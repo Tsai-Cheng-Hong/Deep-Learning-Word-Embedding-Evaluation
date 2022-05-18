@@ -36,6 +36,8 @@ zh_tw_ws353_relatedness.txt為繁體Dataset，由[2][3]提供。
 
 zh_tw_ws353_similarity.txt為繁體Dataset，由[2][3]提供。
 
+# 已經訓練好的詞向量
+已經訓練好的詞向量下載:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
 
 # Reference:
 [1] P. Jin and Y. Wu, "Semeval-2012 task 4: evaluating chinese word similarity," in * SEM 2012: The First Joint Conference on Lexical and Computational Semantics–Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation (SemEval 2012), 2012, pp. 374-377. 
