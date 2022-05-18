@@ -3,9 +3,11 @@
 
 如果是使用gensim套件訓練出來的模型，如CBOW、Skipgram、FastText等
 
-可以使用test.py進行模型的評估，參考test.ipynb。
+請使用test.py進行模型的評估，參考test.ipynb。
 
+如果是使用C語言訓練出來的模型，如CWE、JWE、...等
 
+請使用word_sim.py與word_analogy.py進行模型的評估，可以參考Evalate_Model.ipynb
 
 # Word Analogy
 analog.txt為繁體Dataset，將analogy.txt使用OpenCC翻譯得到。
